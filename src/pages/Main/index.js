@@ -26,7 +26,7 @@ function Main() {
       <div className="flex justify-center items-center w-full lg:h-screen min-h-[600px] bg-[url(./assets/images/bg.png)] bg-cover bg-center">
         <section className="flex flex-col items-center gap-5">
           <h2 className="title lg:text-[88px] md:text-[70px] text-[46px] text-primary-500">
-            연애의 모든것, 에이투지
+            연애의 모든 것, 에이투지
           </h2>
           <img src={storeIcon} alt="앱스토어 다운로드 하러가기" />
         </section>
