@@ -9,6 +9,7 @@ module.exports = {
         "white-700": "#ECECEC",
         "white-600": "#D7D7D7",
         "white-500": "#C6C6C6",
+        "gray-400": "#666666",
         "gray-500": "#888888",
         "gray-600": "#aaaaaa",
         "gray-700": "#cacaca",
