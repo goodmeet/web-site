@@ -10,6 +10,32 @@ body {
   margin: 0;
 }
 
+li ul {
+  padding: 5px 0;
+}
+
+li {
+  position: relative;
+}
+
+li span {
+  position: absolute;
+}
+
+li ul li {
+  padding-left: 20px;
+  list-style-type: circle;
+}
+
+p {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+a {
+  text-decoration: underline;
+}
+
 .title {
   font-family: "Manse";
   font-weight: 500;
