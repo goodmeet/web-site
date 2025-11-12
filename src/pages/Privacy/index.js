@@ -289,6 +289,7 @@ function Privacy() {
                 <a
                   href="http://apple.com/legal/privacy/contact"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   Apple Legal - Legal - Privacy - Apple
                 </a>
@@ -312,7 +313,7 @@ function Privacy() {
               <li>위탁업무 : 시스템운영 및 데이터보관</li>
               <li>
                 연락처 : &nbsp;
-                <a href="mailto:aws@amazon.com" target="_blank">
+                <a href="mailto:aws@amazon.com" target="_blank" rel="noopener noreferrer">
                   aws@amazon.com
                 </a>
               </li>
@@ -526,7 +527,7 @@ function Privacy() {
           <ul class="list-disc list-inside text-sm text-gray-400">
             <li>
               한국인터넷진흥원 개인정보보호 (
-              <a href="https://www.kisa.or.kr/" target="_blank">
+              <a href="https://www.kisa.or.kr/" target="_blank" rel="noopener noreferrer">
                 privacy.kisa.or.kr
               </a>{" "}
               국번없이 118)
@@ -535,7 +536,7 @@ function Privacy() {
           <ul class="list-disc list-inside text-sm text-gray-400">
             <li>
               개인정보분쟁조정위원회 (
-              <a href="https://kopico.go.kr/main/main.do" target="_blank">
+              <a href="https://kopico.go.kr/main/main.do" target="_blank" rel="noopener noreferrer">
                 kopico.go.kr/
               </a>{" "}
               1833-6972)
@@ -544,14 +545,14 @@ function Privacy() {
           <ul class="list-disc list-inside text-sm text-gray-400">
             <li>
               정보보호마크인증위원회 (
-              <a href="http://www.eprivacy.or.kr/" target="_blank">
+              <a href="http://www.eprivacy.or.kr/" target="_blank" rel="noopener noreferrer">
                 www.eprivacy.or.kr/
               </a>{" "}
               02-580-0533~4)
             </li>
             <li>
               대검찰청 인터넷범죄수사센터 (
-              <a href="http://www.spo.go.kr/" target="_blank">
+              <a href="http://www.spo.go.kr/" target="_blank" rel="noopener noreferrer">
                 대검찰청
               </a>{" "}
               국번없이 1301)
@@ -563,6 +564,7 @@ function Privacy() {
               <a
                 href="https://www.police.go.kr/www/security/cyber.jsp"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 cyberbureau.police.go.kr/
               </a>{" "}
