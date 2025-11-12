@@ -503,7 +503,7 @@ function Privacy() {
               개인정보 보호담당자
               <ul class="list-disc list-inside text-sm text-gray-400">
                 <li>이 름 : 이혜진 차장</li>
-                <li>메 일 : goodmeet@atwoz.kr</li>
+                <li>메 일 : help@deepple.co.kr</li>
               </ul>
             </li>
           </ul>
@@ -511,8 +511,8 @@ function Privacy() {
             <li>
               개인정보 보호책임자
               <ul class="list-disc list-inside text-sm text-gray-400">
-                <li>이 름 : 이금빈 차장</li>
-                <li>메 일 : goodmeet@atwoz.kr</li>
+                <li>이 름 : 한건욱 과장</li>
+                <li>메 일 : cs@deepple.co.kr</li>
               </ul>
             </li>
           </ul>

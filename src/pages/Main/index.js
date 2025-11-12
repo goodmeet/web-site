@@ -10,23 +10,19 @@ function Main() {
             <img className="w-[57px]" src={logoImage} alt="에이투지" />
           </a>
         </h1>
-        <ul className="flex items-center px-3 md:px-6">
-          <li className="px-4">
-            <a className="" href="/">
-              <span>고객지원</span>
-            </a>
-          </li>
-          <li className="px-2">
-            <a className="" href="/">
-              <span>앱 다운로드</span>
-            </a>
-          </li>
-        </ul>
+        <div className="flex gap-4 items-center px-3 md:px-6 whitespace-nowrap">
+          <a className="no-underline" href="/">
+            <span>고객지원</span>
+          </a>
+          <a className="no-underline" href="/">
+            <span>앱 다운로드</span>
+          </a>
+        </div>
       </header>
       <div className="flex justify-center items-center w-full lg:h-screen min-h-[600px] bg-[url(./assets/images/bg.png)] bg-cover bg-center">
         <section className="flex flex-col items-center gap-5">
           <h2 className="title lg:text-[88px] md:text-[70px] text-[46px] text-primary-500">
-            연애의 모든 것, 에이투지
+            가볍지 않게, 깊게. 딥플
           </h2>
           <img src={storeIcon} alt="앱스토어 다운로드 하러가기" />
         </section>
