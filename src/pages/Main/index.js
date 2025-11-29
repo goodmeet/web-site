@@ -7,11 +7,11 @@ function Main() {
       <header className="absolute top-0 left-0 w-full bg-white flex justify-between">
         <h1 className="md:px-4">
           <a className="flex px-2" href="/">
-            <img className="w-[57px]" src={logoImage} alt="에이투지" />
+            <img className="w-[57px]" src={logoImage} alt="딥플" />
           </a>
         </h1>
         <div className="flex gap-4 items-center px-3 md:px-6 whitespace-nowrap">
-          <a className="no-underline" href="/">
+          <a className="no-underline" href="mailto:goodmeet@deepple.co.kr">
             <span>고객지원</span>
           </a>
           <a className="no-underline" href="/">
