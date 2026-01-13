@@ -39,12 +39,12 @@ function Main() {
         <ul className="md:flex items-center gap-[10px] text-body3 pt-1">
           <li>굿밋 (대표자: 김민호)</li>
           <li className="text-gray-600 text-caption md:flex hidden">|</li>
-          <li>사업자 등록번호: 580-19-02336</li>
+          <li>사업자 등록번호: 716-66-00789</li>
           <li className="text-gray-600 text-caption md:flex hidden">|</li>
-          <li>통신판매신고번호: 2025-서울광진-0496</li>
+          <li>통신판매신고번호: 2026-서울광진-0028</li>
         </ul>
         <span className="flex text-gray-600 text-caption pt-3">
-          ⓒ 2025. Goodmeet All Rights reserved.
+          ⓒ 2026. Goodmeet All Rights reserved.
         </span>
       </footer>
     </div>
