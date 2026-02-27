@@ -26,6 +26,24 @@ function Main() {
           </h2>
           <img src={storeIcon} alt="앱스토어 다운로드 하러가기" />
         </section>
+        <section className="flex flex-col items-center gap-5">
+          <h2 className="title lg:text-[88px] md:text-[70px] text-[46px] text-primary-500">
+            연애가치관 테스트
+          </h2>
+          <p>4개 영역, 15개의 문항을 통해 나의 연애가치관을 알아보세요</p>
+        </section>
+        <section className="flex flex-col items-center gap-5">
+          <h2 className="title lg:text-[88px] md:text-[70px] text-[46px] text-primary-500">
+            나의 연애가치관
+          </h2>
+          <p>4가지 페르소나 중 나의 연애가치관은?</p>
+        </section>
+        <section className="flex flex-col items-center gap-5">
+          <h2 className="title lg:text-[88px] md:text-[70px] text-[46px] text-primary-500">
+            나의 이상형 추천
+          </h2>
+          <p>가치관이 통하는 이상형을 추천 받으세요</p>
+        </section>
       </div>
       <footer className="px-4 md:px-8 py-8">
         <ul className="flex items-center gap-[15px] text-gray-500 text-body4">
