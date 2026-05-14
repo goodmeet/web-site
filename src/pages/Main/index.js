@@ -11,10 +11,10 @@ function Main() {
           </a>
         </h1>
         <div className="flex gap-4 items-center px-3 md:px-6 whitespace-nowrap">
-          <a className="no-underline" href="mailto:goodmeet@deepple.co.kr">
+          <a className="no-underline" href="mailto:support@deepple.co.kr">
             <span>고객지원</span>
           </a>
-          <a className="no-underline" href="/">
+          <a className="no-underline" href="#download">
             <span>앱 다운로드</span>
           </a>
         </div>
@@ -43,6 +43,13 @@ function Main() {
             나의 이상형 추천
           </h2>
           <p>가치관이 통하는 이상형을 추천 받으세요</p>
+        </section>
+        <section className="flex flex-col items-center gap-5">
+          <h2 className="title lg:text-[88px] md:text-[70px] text-[46px] text-primary-500">
+            가볍지 않게, 깊게. 딥플
+          </h2>
+          <img src={storeIcon} alt="플레이스토어 다운로드 하러가기" />
+          <img src={storeIcon} alt="앱스토어 다운로드 하러가기" />
         </section>
       </div>
       <footer className="px-4 md:px-8 py-8">
