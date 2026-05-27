@@ -717,7 +717,7 @@ function Terms() {
         <strong>부칙</strong>
       </p>
       <p id="1271ff38-e4e5-81e1-a7dd-ca1739c1a065" class="">
-        본 약관은 2026년 3월 10일부터 시행합니다.
+        본 약관은 2026년 4월 1일부터 시행합니다.
       </p>
     </div>
   );

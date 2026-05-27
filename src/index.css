@@ -43,8 +43,7 @@ a {
 
 @font-face {
   font-family: "Manse";
-  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Manse.woff")
-    format("woff");
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Manse.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }

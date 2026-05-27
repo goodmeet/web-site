@@ -596,7 +596,7 @@ function Privacy() {
       </section>
 
       <footer class="mt-10 pt-6 border-t text-sm text-gray-600">
-        <p>본 개인정보 처리방침은 2026년 3월 10일부터 적용됩니다.</p>
+        <p>본 개인정보 처리방침은 2026년 4월 1일부터 적용됩니다.</p>
       </footer>
     </div>
   );
