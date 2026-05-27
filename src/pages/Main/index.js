@@ -1,6 +1,5 @@
-import React, { use, useState } from 'react';
+import React, { useState } from 'react';
 import logoImage from "../../assets/images/logo.png";
-import storeIcon from "../../assets/images/store.svg";
 import qrcodeImage from "../../assets/images/qrcode.png";
 
 function Main() {
