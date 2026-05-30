@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import logoImage from "../../assets/images/logo.png";
+import clovaImage from "../../assets/images/clova.png";
+import testImage from "../../assets/images/test.png";
 import qrcodeImage from "../../assets/images/qrcode.png";
 
 function Main() {
@@ -31,17 +33,31 @@ function Main() {
             <button className="p-4 w-[200px] bg-white text-[20px] font-semibold rounded-full" onClick={() => setIsShow(true)}>앱 다운로드</button>
           </div>
         </section>
-        {/* <section className="flex flex-col items-center gap-5">
-          <h2 className="title lg:text-[88px] md:text-[70px] text-[46px] text-primary-500">
+        <section className="flex flex-col pt-[100px] items-center gap-[5px] bg-gray-100">
+          <h2 className="lg:text-[48px] md:text-[42px] text-[36px] font-bold text-black-500">
             연애가치관 테스트
           </h2>
-          <p>4개 영역, 15개 문항을 통해 나의 연애가치관을 알아보세요</p>
+          <p className='lg:text-[24px] md:text-[20px] text-[16px] text-gray-500 text-center'>
+            4개 영역, 9개 문항을 통해<br />
+            나의 연애가치관을 알아보세요
+          </p>
+          <img className="pt-[50px] lg:w-[530px] w-[360px]" src={testImage} alt="테스트 화면" />
         </section>
+        <section className="flex flex-col pt-[100px] items-center gap-[5px] bg-black-500">
+          <h2 className="lg:text-[48px] md:text-[42px] text-[36px] font-bold text-white">
+            나의 연애가치관
+          </h2>
+          <p className='lg:text-[24px] md:text-[20px] text-[16px] text-gray-300 text-center'>
+            6가지 페르소나 중 나의 연애가치관은?
+          </p>
+          <img className="lg:w-[398.5px] w-[360px]" src={clovaImage} alt="유형 이미지" />
+        </section>
+        {/* 
         <section className="flex flex-col items-center gap-5">
           <h2 className="title lg:text-[88px] md:text-[70px] text-[46px] text-primary-500">
             나의 연애가치관
           </h2>
-          <p>4가지 페르소나 중 나의 연애가치관은?</p>
+          <p>6가지 페르소나 중 나의 연애가치관은?</p>
         </section>
         <section className="flex flex-col items-center gap-5">
           <h2 className="title lg:text-[88px] md:text-[70px] text-[46px] text-primary-500">

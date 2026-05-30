@@ -13,6 +13,7 @@ module.exports = {
         "gray-500": "#888888",
         "gray-600": "#aaaaaa",
         "gray-700": "#cacaca",
+        "black-500": "#151515",
         "primary-500": "#7462E8",
         "secondary-500": "#BBA999",
       },
