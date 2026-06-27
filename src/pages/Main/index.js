@@ -83,7 +83,7 @@ function Main() {
           <li>통신판매신고번호: 2026-서울광진-0028</li>
         </ul>
         <span className="flex text-gray-600 text-caption pt-3">
-          ⓒ 2026. Goodmeet All Rights reserved.
+          ⓒ 2026. Deepple Labs Inc. All Rights reserved.
         </span>
       </footer>
       {isShow && (
