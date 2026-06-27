@@ -76,9 +76,9 @@ function Main() {
           </li>
         </ul>
         <ul className="md:flex items-center gap-[10px] text-body3 pt-1">
-          <li>굿밋 (대표자: 김민호)</li>
+          <li>주식회사 딥플랩스 (대표자: 김민호)</li>
           <li className="text-gray-600 text-caption md:flex hidden">|</li>
-          <li>사업자 등록번호: 716-66-00789</li>
+          <li>사업자 등록번호: 334-86-004048</li>
           <li className="text-gray-600 text-caption md:flex hidden">|</li>
           <li>통신판매신고번호: 2026-서울광진-0028</li>
         </ul>
